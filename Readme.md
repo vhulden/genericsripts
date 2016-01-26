@@ -1,0 +1,1 @@
+These are just general scripts that I'm saving for reuse in the future. All of them were written for a specific project originally and are probably not as generic as they should be, but still worth saving for future projects.
